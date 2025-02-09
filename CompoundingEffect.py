@@ -1,5 +1,5 @@
 money = int(input("Enter the Money given to you on first day: "))
-multiplier = int(input("How does the money increment each day?(Doubles/tribles etc ): " ))
+multiplier = int(input("How does the money increment each day?(Doubles/tribles etc ): " ))#Enter in numbers
 days = int(input("Enter the Days: "))
 
 unit_for_days = []
